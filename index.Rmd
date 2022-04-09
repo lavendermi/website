@@ -1,0 +1,60 @@
+---
+title: "Thomas (Mike) Lavender"
+image: "mike.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.ca/citations?hl=en&user=y-3736cAAAAJ"
+  # - label: LinkedIn
+  #   url: "https://www.linkedin.com/in/mikelavender/"
+  - label: Twitter
+    url: "https://twitter.com/rednevalekim/"
+  - label: GitHub
+    url: "https://github.com/lavendermi/"
+  # - label: Strava
+  #   url: "https://www.strava.com/athletes/9971785"
+  - label: Email
+    url: "mailto:mike.lavender@queensu.ca"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a bit of a generalist withe experience spanning molecular ecology, to avian ecology, to plant sciences, to aquatic ecology. However, I could best be described as a community ecologist with an interest in computational ecology, community assembly, and the quantitative methods we use to detect patterns of association within ecological communities. In my spare time I am an unskilled but enthusiastic mountain biker, trout fisher person, and mushroom hunter. My happy places all involve the outdoors with back country canoe camping, swimming, and snowshoeing being some of the things I can't get enough of.
+
+## Education
+
+* **Queen’s University** | Kingston, ON CANADA
+  * Ph.D. in Biology | September 2014 – October 2021  
+
+* **University of Saskatchewan** | Saskatoon, SK CANADA
+  * M.Sc. in Biology | January 2012 – September 2014  
+
+* **Brock University** | St. Catherines, ON CANADA  
+  * B.Sc. in Biology | September 1993 – April 1998  
+
+## Teaching Experience
+
+**Post Doctoral Fellow**
+
+* January 2022 - Present | University of Regina
+  * [Kerri Finlay's Lab (FAST)](https://kerrifinlay.wixsite.com/kerri) & [CIEE Living Data Project](https://www.ciee-icee.ca/data.html)
+
+**Graduate courses**
+
+* 2021	Assistant Professor | Queen's University
+  * Introduction to Statistics
+
+**Undergraduate courses**
+
+* Summer 2022  |	Teaching fellow | Queen's University
+  * Introduction to Statistics
+* Winter 2022  |	Teaching fellow | Queen's University
+  * Introduction to Statistics
+* Summer 2021	Teaching fellow | Queen's University
+  * Introduction to Statistics
+* Fall 2020	Teaching fellow | Queen's University
+  * Data Analysis for Biologists
+* Summer 2020	Teaching fellow | Queen's University
+  * Introduction to Statistics
