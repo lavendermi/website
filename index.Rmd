@@ -10,8 +10,8 @@ links:
     url: "https://twitter.com/rednevalekim/"
   - label: GitHub
     url: "https://github.com/lavendermi/"
-  # - label: Strava
-  #   url: "https://www.strava.com/athletes/9971785"
+  - label: Strava
+    url: "https://www.strava.com/athletes/9971785"
   - label: Email
     url: "mailto:mike.lavender@queensu.ca"
 site: distill::distill_website
