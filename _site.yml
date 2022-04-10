@@ -16,3 +16,8 @@ cookie_consent:
   type: express
   palette: light
   lang: en
+base_url: https://lavendermi.github.io/website/
+repository_url: https://lavendermi.github.io/website/
+creative_commons: CC BY
+twitter:
+  site: "@rednevalekim"
