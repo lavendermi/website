@@ -10,7 +10,7 @@ navbar:
 #     # - text: "About"
 #     #   href: about.html
 output: distill::distill_article
-google_analytics: "G-XRL8E76XYF"
+google_analytics: "G-4BNSBKZ6ZR"
 cookie_consent:
   style: simple
   type: express
